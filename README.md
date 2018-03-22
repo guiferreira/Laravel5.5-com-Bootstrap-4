@@ -5,7 +5,7 @@ Aprenda a configurar o Laravel 5.5 com o Bootsrap 4.
 
 composer create-project --prefer-dist laravel/laravel blog "5.5.*"
 
-compositor requer laravelnews / laravel-twbs4
+composer require laravelnews/laravel-twbs4
 
 php artisan preset bootstrap4-auth
 
