@@ -1,6 +1,8 @@
 # Laravel 5.5 com Bootstrap 4
 Aprenda a configurar o Laravel 5.5 com o Bootsrap 4.
 
+link vídeo: https://youtu.be/v8ByN2xDqhc
+
 ## Comandos:
 
 composer create-project --prefer-dist laravel/laravel blog "5.5.*"
