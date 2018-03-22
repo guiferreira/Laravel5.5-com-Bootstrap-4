@@ -1,5 +1,5 @@
-# Laravel 5.5 comBootstrap-4
-Laravel 5.5 com Bootstrap 4
+# Laravel 5.5 com Bootstrap 4
+Aprenda a configurar o Laravel 5.5 com o Bootsrap 4.
 
 ## Comandos:
 
