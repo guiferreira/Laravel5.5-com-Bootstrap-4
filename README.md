@@ -1,7 +1,7 @@
-# Laravel-com-Bootstrap-4
+# Laravel 5.5 comBootstrap-4
 Laravel 5.5 com Bootstrap 4
 
-##Comandos:
+## Comandos:
 
 composer create-project --prefer-dist laravel/laravel blog "5.5.*"
 
